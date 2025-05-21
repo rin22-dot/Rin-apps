@@ -15,3 +15,6 @@ if (angka % 2) == 0:
     st.write(f"{angka} adalah bilangan genap")
 else:
     st.write(f"{angka} adalah bilangan ganjil") 
+
+age = st.slider("How old are you?", 0, 130, 25)
+st.write("I'm ", age, "years old")
