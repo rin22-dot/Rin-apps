@@ -1,9 +1,8 @@
 import streamlit as st
 
 st.title("sigma 😝")
-st.write(
-    "yahah kepo"
-)
+
+
 st.write("sIigmAaA")
 st.image("239e46c7a088b819d1b9ff9ecd7e5eff.jpg")
 
