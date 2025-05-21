@@ -16,5 +16,5 @@ if (angka % 2) == 0:
 else:
     st.write(f"{angka} adalah bilangan ganjil") 
 
-age = st.slider("How old are you?", 0, 130, 25)
+age = st.slider("How old are you?", 0, 1000, 1)
 st.write("I'm ", age, "years old")
