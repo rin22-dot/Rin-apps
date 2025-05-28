@@ -4,7 +4,7 @@ st.title("sigma 😝")
 
 
 st.write("sIigmAaA")
-st.image("239e46c7a088b819d1b9ff9ecd7e5eff.jpg", width=200)
+st.image("9769a4cd94b663946f97ec66857f9d6f.jpg", width=200)
 
 st.title("aplikasi sederhana")
 st.header("aplikasi mengecek nilai genap/ganjil")
